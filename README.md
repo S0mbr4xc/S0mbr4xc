@@ -1,4 +1,4 @@
-# 👋 Hola, soy S0mbr4xc
+# 👋 Hola, soy Esteban Cordova
 
 - 💻 Desarrollando en produccion
 - 🌱 Poniendo el where comentado
